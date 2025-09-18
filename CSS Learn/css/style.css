@@ -1,0 +1,83 @@
+/*body{
+    font-size: 20px;
+}*/
+/* *{
+    margin:0;
+    padding: 0;
+    
+} */
+/* button, input, textarea{
+    font:inherit;
+}
+#second{
+    color:aqua;
+}
+.gray{
+    color:grey;
+} */
+/* p{
+    color:blue;
+}
+h1, h2{
+    color:green;
+}
+/* p span{
+    background-color:black;
+}
+.highlight{
+    background-color:red;
+} */
+ /* html{
+    font-size:24px;
+}
+header{
+    width:50%; 
+} */ 
+ 
+
+/* body{
+    min-height:100vh;
+}  */
+/* p{
+    font-size:2rem;
+    width:25ch;
+}
+main{
+    background-color:greenyellow;
+    width:50%;
+    font-size: 1rem;
+}
+body{
+    width:100vh;
+} */
+ *{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+ }
+ /* h1{
+    border:2px dashed red;
+    width:400px;
+    font-size:1.5rem;
+    padding:0.5em;
+} */
+ .container{
+    border:2px dashed red;
+    border-top-color:green;
+    border-top-width:5px;
+    border-right:3px solid blue;
+    border-left:7px double black;
+
+    font-size: 1.5em;
+    /* margin-top:1.5em;
+    margin-right:2em;
+    margin-bottom:3em;
+    margin-left:4em; 
+    margin:1.5em 2em 3em 4em;*/
+    margin:1.5em 2em;
+    padding:1.5em 2em 3em 4em;
+    /*padding:0.5em;*/
+    outline:5px solid brown;
+    /*outline-offset:10px;*/
+    outline-offset:-20px;
+ }

@@ -1,0 +1,26 @@
+body{
+    padding: 10%;
+}
+a:link{
+    text-decoration: 2px dashed brown;
+    text-decoration-line: underline;
+}
+a:visited{
+    color: purple;
+    text-decoration: 2px dashed rgb(3, 75, 35);
+    text-decoration-line:underline ;
+}
+/*a:hover{
+    color: aqua;
+    font-size: xx-large;
+    cursor:pointer;
+}*/
+a:hover{
+    opacity: 0.5;
+    font-size: xx-large;
+    cursor:pointer;
+}
+a:active{
+    color:yellowgreen;
+}
+
